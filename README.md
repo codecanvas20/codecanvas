@@ -25,10 +25,11 @@ A clean, responsive landing page with modern layout and color scheme.
 
 ---
 
-### 3. Figma UI – Login Page
-A minimal login page designed in Figma, focusing on modern UX principles.
+### 3. To-Do List App
+A simple to-do list built with JavaScript and local storage.
 
-- [Figma Preview](https://www.figma.com/file/your-link)
+- [GitHub Repository](https://github.com/YOUR-USERNAME/todo-app)
+- [Live Demo](https://YOUR-USERNAME.github.io/todo-app/)
 
 ---
 
