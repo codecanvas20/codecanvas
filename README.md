@@ -1,49 +1,37 @@
 # codecanvas 
 # Welcome to CodeCanvas
 
-**Hello! I'm a self-taught developer and designer, building my skills and portfolio one project at a time.**
+**Hi there! I'm a passionate learner starting my journey into coding and design.**
 
-My goal is to master both coding and UI/UX design to create powerful, user-friendly digital products.
-
----
-
-## Projects
-
-### 1. Calculator App
-A simple calculator built with HTML, CSS, and JavaScript.
-
-- [GitHub Repository](https://github.com/your-username/calculator-project)
-- [Live Demo](https://your-username.github.io/calculator-project/)
+I'm currently learning web development and UI/UX design, with a focus on building simple and beautiful digital experiences.
 
 ---
 
-### 2. Landing Page Design
-A clean, responsive landing page with modern layout and color scheme.
+## About Me
 
-- [GitHub Repository](https://github.com/your-username/landing-page)
-- [Live Demo](https://your-username.github.io/landing-page/)
+- 🌱 I’m currently learning **HTML**, **CSS**, and **JavaScript**
+- 🎯 My goal is to become a **full-stack developer** and **UI/UX designer**
+- 🧠 I’m committed to learning and building projects every week
 
----
-
-### 3. To-Do List App
-A simple to-do list built with JavaScript and local storage.
-
-- [GitHub Repository](https://github.com/YOUR-USERNAME/todo-app)
-- [Live Demo](https://YOUR-USERNAME.github.io/todo-app/)
 
 ---
 
-## Skills
+## My Learning Roadmap
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+- [x] HTML Basics
+- [ ] CSS Fundamentals
+- [x] JavaScript Essentials
+- [ ] Responsive Design
+- [ ] Git & GitHub
+- [ ] First Website Project
 
 ---
 
-## More Coming Soon...
+## Projects Coming Soon...
 
-Stay tuned as I continue to add new projects and grow **CodeCanvas** into a space for creative and technical exploration.
+Stay tuned! I'll be adding my first mini-projects and designs as I learn and grow.
 
-> "Creativity is intelligence having fun." – Albert Einstein
+---
+
+> “The best way to learn is by doing. Let the journey begin!”
+
